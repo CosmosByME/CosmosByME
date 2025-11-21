@@ -33,7 +33,7 @@ _Updating… the workflow will replace this block with your latest repo and comm
 
 ## 🪐 Skill Nebula
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,git,github,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,cpp,git,github,vscode&theme=dark" alt="skills" />
 </p>
 
 ---
@@ -46,19 +46,15 @@ _Updating… the workflow will replace this block with your latest repo and comm
 ---
 
 ## 🚀 Featured Repositories
-> *(Insert or edit your own repository links below — I left placeholders for you.)*
 
 ### 🌀 Python
-- [python-basics](#)  
-- [python-mini-projects](#)
+
 
 ### 🌙 Dart & Flutter
-- [dart-practice](#)  
-- [flutter-experiments](#)
+
 
 ### ☀️ C++
-- [cpp-basics](#)  
-- [cpp-algorithms](#)
+
 
 ---
 
@@ -84,12 +80,7 @@ _Updating… the workflow will replace this block with your latest repo and comm
 
 ---
 
-## 🌌 3D Contribution Galaxy (Optional)
-> (If you enable the 3D contribution generator workflow, place the generated image under `profile-3d-contrib/` and update the image path below.)
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution galaxy (optional)"/>
-</p>
 
 ---
 
