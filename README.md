@@ -1,6 +1,6 @@
 <!-- Cosmic Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/zY3Z1dP.gif" width="100%" alt="Cosmic Banner"/>
+  <img src="https://media.istockphoto.com/id/1403514917/vector/planets-and-nebula-background-in-pixel-art-style.jpg?s=612x612&w=0&k=20&c=deM3kIYe6eT9xlL-6eUgNvnqvSyPDjJfg7vQLHQ394w=" width="100%" alt="Cosmic Banner"/>
 </p>
 
 <h1 align="center">🌌 CosmosByME</h1>
