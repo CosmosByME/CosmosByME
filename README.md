@@ -24,26 +24,6 @@
 
 ---
 
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://instagram.com/muhammads_ig">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-egamov">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://reddit.com/user/Lazy_Water_4973">
-    <img src="https://skillicons.dev/icons?i=reddit" />
-  </a>
-  <a href="https://stackoverflow.com/users/31753611">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-  <a href="mailto:egamovmuhammad.sr@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
 
 ---
 
