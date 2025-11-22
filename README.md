@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🌌 CosmosByME</h1>
-<p align="center"><sub><i>Liberté, Égalité, Fraternité</i></sub></p>
+<p align="center"><super><i>Liberté, Égalité, Fraternité</i></super></p>
 
 ---
 
@@ -49,39 +49,19 @@
 ## 🪐 Skill Nebula
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,cpp,git,github,vscode,latex,html,arduino,photoshop,canva&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=dart, python, c%2B%2B&& theme=dark" alt="skills" />
 </p>
 
 <p align="center">
-
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-<!-- Web / Markup -->
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-<!-- Creative / Hardware -->
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=flutter, git, github, visual-studio-code" alt="skills" />
 </p>
 
-
----
-
-## ✨ Tools Constellation  
 <p align="center">
-  <img src="./assets/constellation.svg" width="80%" alt="Tools Constellation"/>
+  <img src="https://skillicons.dev/icons?i=html5, latex theme=dark" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop, canva, arduino theme=dark" alt="skills" />
 </p>
 
 ---
@@ -99,24 +79,21 @@
 
 ---
 
-## 🐍 Contribution Snake
-> To enable the animated snake that "eats" your contribution graph, see the workflow instructions below (I provided guidance). If you enable it, the generated image will be placed at `output/github-contribution-grid-snake.svg` and you can reference it here.
 
-<p align="center">
-  <!-- If you later enable the snake generator, it will be safe to replace the `src` below with the generated path -->
-  <img src="https://github.com/CosmosByME/CosmosByME/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CosmosByME&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmosByME&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CosmosByME&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmosByME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -131,13 +108,3 @@
 </p>
 
 ---
-
-## 🌠 Space Quote of the Day
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/hYz7Qy1.gif" width="200" alt="orbit"/>
-</p>
