@@ -1,10 +1,10 @@
 <!-- Cosmic Banner -->
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1544972636400-3X0P40MZM5CQ5Q3PXDC9/Title_Image.png" width="80%" alt="Cosmic Banner"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1544972636400-3X0P40MZM5CQ5Q3PXDC9/Title_Image.png" width="100%" alt="Cosmic Banner"/>
 </p>
 
 <h1 align="center">CosmosByME</h1>
-<p align="center"><h3><i>Liberté, Égalité, Fraternité</i></h3></p>
+<h3 align="center"><i>Liberté, Égalité, Fraternité</i></h3>
 
 ---
 
@@ -28,26 +28,26 @@
 
 <p align="center">
   <a href="https://instagram.com/muhammads_ig">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-egamov">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://reddit.com/user/Lazy_Water_4973">
-    <img src="https://skillicons.dev/icons?i=reddit&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=reddit" />
   </a>
   <a href="https://stackoverflow.com/users/31753611">
-    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   <a href="mailto:egamovmuhammad.sr@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 
 ---
 
-## 🪐 Skill Nebula
+## 💻 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,python,cpp&theme=dark" />
@@ -92,7 +92,6 @@
 
 ---
 
-## ⭐ Stars Observed So Far
 ![](https://github-visitor-counter-tau.vercel.app/api?username=CosmosByME)
 
 
