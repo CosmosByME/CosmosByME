@@ -37,10 +37,10 @@
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/31753611">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?logo=stack-overflow&logoColor=white" />
   </a>
   <a href="mailto:egamovmuhammad.sr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -49,19 +49,19 @@
 ## 🪐 Skill Nebula
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart, python, c%2B%2B&& theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=dart,python,cpp&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter, git, github, visual-studio-code" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html5, latex theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,latex&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop, canva, arduino theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ps,canva,arduino&theme=dark" />
 </p>
 
 ---
